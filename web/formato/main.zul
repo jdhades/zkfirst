@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<zk xmlns="http://www.zkoss.org/2005/zul">
+    <vbox vflex="1" hflex="1" align="center" pack="center" spacing="20px"> 
+    <image src="img/logo.jpg" /> 
+    <label value="Vista" sclass="head1"/>
+    </vbox>
+</zk>

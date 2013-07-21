@@ -1,0 +1,21 @@
+   <grid>
+        <columns>
+            <column width="36px"/>
+            <column />
+        </columns>
+        <rows>
+            <row>
+                <image src="/img/site.png"/>
+                <a href="http://www.alternetica.com/">ALTERNETICA</a>
+            </row>
+            <row>
+                <image src="/img/demo.png"/>
+                <a href="http://www.zkoss.org/zkdemo">ZK Demo</a>
+            </row>
+            <row>
+                <image src="/img/doc.png"/>
+                <a href="http://books.zkoss.org/wiki/ZK_Developer's_Reference">ZK Developer Reference</a>
+            </row>
+        </rows>
+    </grid>
+
